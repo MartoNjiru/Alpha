@@ -1,0 +1,6 @@
+{"text": "Huduma ilikuwa nzuri sana", "labels": {"ann1": "positive", "ann2": "positive", "ann3": "positive"}, "gold": "positive"}
+{"text": "The delivery was late again", "labels": {"ann1": "negative", "ann2": "negative", "ann3": "neutral"}}
+{"text": "It arrived on Tuesday", "labels": {"ann1": "neutral", "ann2": "neutral", "ann3": "neutral"}, "gold": "neutral"}
+{"text": "Sijafurahishwa na bidhaa hii", "labels": {"ann1": "negative", "ann2": "negative", "ann3": "positive"}, "gold": "negative"}
+{"text": "Great price, poor battery", "labels": {"ann1": "neutral", "ann2": "negative", "ann3": "positive"}}
+{"text": "Absolutely love it", "labels": {"ann1": "positive", "ann2": "positive", "ann3": "negative"}, "gold": "positive"}
