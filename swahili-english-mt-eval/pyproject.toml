@@ -1,0 +1,10 @@
+[project]
+name = "swahili-english-mt-eval"
+version = "0.1.0"
+description = "Machine-translation evaluation for Swahili-English: corpus BLEU, chrF and TER from scratch, with per-sentence error reports."
+requires-python = ">=3.10"
+authors = [{name = "Martin Njiru"}]
+license = {text = "MIT"}
+
+[tool.setuptools]
+packages = ["mteval"]
